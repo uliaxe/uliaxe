@@ -4,6 +4,8 @@
 
 I'm a passionate of data science.
 
+![profile views](https://komarev.com/ghpvc/?username=uliaxe&color=blueviolet)
+
 ## languages and tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

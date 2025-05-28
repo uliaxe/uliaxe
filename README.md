@@ -48,7 +48,6 @@
 
 ---
 
-![Oscar Piastri Cat F1](https://media.tenor.com/8R4p5XgJt3MAAAAC/oscar-piastri-cat-f1.gif)
+![vroom vroom dance](https://tenor.com/fr/view/ferrari-mclaren-f1-charles-leclerc-drift-gif-6252954183257355602)
 
 ---
-

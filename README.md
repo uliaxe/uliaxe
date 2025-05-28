@@ -47,3 +47,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uliaxe&layout=compact&theme=radical)
 
 ---
+
+## 🧡 McLaren Passion
+
+🧡 Proud fan of **McLaren F1** Lando Norris & Oscar Piastri  
+![McLaren F1](https://img.shields.io/badge/McLaren%20F1-Team%20Spirit-orange?style=for-the-badge&logo=formula1&logoColor=white)
+![![Lando Norris](https://img.shields.io/badge/Lando%20Norris-FF8700?style=for-the-badge&logo=lando-norris&logoColor=white)](https://www.instagram.com/lando/)
+![![Oscar Piastri](https://img.shields.io/badge/Oscar%20Piastri-0078D7?style=for-the-badge&logo=oscar-piastri&logoColor=white)](https://www.instagram.com/oscarpiastri/)

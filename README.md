@@ -2,8 +2,7 @@
 
 🎓 I'm a passionate **data science student** with a strong interest in **data engineering**.  
 
-![Ferrari vs McLaren GIF](https://media.tenor.com/CYWttIgOSagAAAAC/ferrari-mclaren.gif)
-
+![Ferrari vs McLaren GIF](https://media1.tenor.com/m/Vsb0sznY9VIAAAAd/ferrari-mclaren.gif)
 
 ## 🧠 Languages & Tools
 

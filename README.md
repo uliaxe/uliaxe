@@ -47,7 +47,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uliaxe&layout=compact&theme=radical)
 
 ---
-
-![vroom vroom dance](https://tenor.com/fr/view/ferrari-mclaren-f1-charles-leclerc-drift-gif-6252954183257355602)
-
----

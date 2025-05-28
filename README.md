@@ -2,6 +2,8 @@
 
 🎓 I'm a passionate **data science student** with a strong interest in **data engineering**.  
 
+![dance formula 1](https://tenor.com/fr/view/ferrari-mclaren-f1-charles-leclerc-drift-gif-6252954183257355602)
+
 ---
 
 ## 🧠 Languages & Tools

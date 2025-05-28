@@ -2,8 +2,6 @@
 
 🎓 I'm a passionate **data science student** with a strong interest in **data engineering**.  
 
-![Ferrari vs McLaren GIF](https://media1.tenor.com/m/Vsb0sznY9VIAAAAd/ferrari-mclaren.gif)
-
 ## 🧠 Languages & Tools
 
 ### 🔤 Programming Languages  
@@ -55,3 +53,5 @@
 
 [![Lando Norris](https://img.shields.io/badge/Lando%20Norris-FF8700?style=for-the-badge&logo=lando-norris&logoColor=white)](https://www.instagram.com/lando/)
 [![Oscar Piastri](https://img.shields.io/badge/Oscar%20Piastri-FF8700?style=for-the-badge&logo=oscar-piastri&logoColor=white)](https://www.instagram.com/oscarpiastri/)
+
+![Ferrari vs McLaren GIF](https://media1.tenor.com/m/Vsb0sznY9VIAAAAd/ferrari-mclaren.gif)

@@ -26,27 +26,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. [Nom de ton Projet Principal] (Met le lien ici)
-> *Brief : Une phrase simple qui explique ce que ça fait.*
-* **The Goal:** Predict [X] / Analyze [Y].
-* **My Role:** Built the ETL pipeline and the prediction model.
-* **Tech:** Python, Pandas, **Docker**, SQL.
-
-### 2. [Nom d'un deuxième projet] (Met le lien ici)
-* **The Goal:** Automated dashboard for [Sujet].
-* **Tech:** Python, Matplotlib, Jupyter.
-
----
-
-## 📊 GitHub Stats
-
-![Uliaxe's GitHub stats](https://github-readme-stats.vercel.app/api?username=uliaxe&show_icons=true&theme=radical&hide_title=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uliaxe&layout=compact&theme=radical)
-
----
-
 ## 🏎️ The "Papaya" Passion
 
 🧡 Proud fan of **McLaren F1**, supporting Lando & Oscar on and off the track.

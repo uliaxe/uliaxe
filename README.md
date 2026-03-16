@@ -26,19 +26,6 @@
 
 ---
 
-## 🏎️ The "Papaya" Passion
-
-🧡 Proud fan of **McLaren F1**, supporting Lando & Oscar on and off the track.
-
-![McLaren F1](https://img.shields.io/badge/McLaren%20F1-Team%20Spirit-orange?style=for-the-badge&logo=formula1&logoColor=white)
-
-[![Lando Norris](https://img.shields.io/badge/Lando%20Norris-FF8700?style=for-the-badge&logo=lando-norris&logoColor=white)](https://www.instagram.com/lando/)
-[![Oscar Piastri](https://img.shields.io/badge/Oscar%20Piastri-FF8700?style=for-the-badge&logo=oscar-piastri&logoColor=white)](https://www.instagram.com/oscarpiastri/)
-
-![Ferrari vs McLaren GIF](https://media1.tenor.com/m/Vsb0sznY9VIAAAAd/ferrari-mclaren.gif)
-
----
-
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uliaxe)

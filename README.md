@@ -1,7 +1,8 @@
 # 👋 Hello there! I'm Uliaxe
 
 🎓 I'm a 4th-year **Computer Science Student** specializing in **Data & AI**.
-🚀 Passionate about **Data Engineering**, I focus on building robust pipelines and moving models from notebooks to production (MLOps).
+🚀 Passionate about **Data Analysis**, I focus on extracting meaningful insights from data, exploring complex datasets, and building data-driven solutions.
+🏎️ Outside of tech, I'm a huge fan of **Formula 1** and spending time with **cats**! 🐈
 
 ---
 
@@ -19,8 +20,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0081C9?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-FF9800?style=for-the-badge&logo=seaborn&logoColor=white)
 
-### ⚙️ Data Engineering & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 📈 Data Analysis & Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-0078D7?style=for-the-badge&logo=dbeaver&logoColor=white)
 
